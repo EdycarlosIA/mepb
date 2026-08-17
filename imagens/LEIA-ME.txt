@@ -1,0 +1,49 @@
+PASTA DE IMAGENS — Portal MEPB (protótipo)
+===========================================
+
+Como funciona
+-------------
+O site tenta carregar a foto local pelo nome exato do arquivo abaixo.
+Se o arquivo existir aqui dentro de "imagens/", ele aparece no site.
+Se ainda não existir, o site cai automaticamente para uma foto de
+demonstração (banco de imagens), sem quebrar nada.
+
+Ou seja: basta arrastar uma foto para esta pasta, com o nome EXATO
+indicado abaixo (mesma extensão .jpg), e recarregar a página — não
+precisa mexer em nenhum código.
+
+Dica de formato: fotos na horizontal (paisagem), boa iluminação,
+mínimo de 1200px de largura para o Hero, 800px para as demais.
+
+
+JÁ INCLUÍDAS NESTA PASTA (fotos reais da MEPB, resgatadas do site atual)
+-------------------------------------------------------------------------
+quem-somos-fundadores.jpg          -> Harland e Hazel Graham (seção "Quem Somos")
+quem-somos-galeria-historica.jpg   -> Foto histórica de turma/formatura (seção "Quem Somos")
+missao-amazonia-barco.jpg          -> Barco Ethel Matson, Rio Negro (página Missões)
+
+
+AINDA FALTAM — coloque o arquivo com este nome exato para substituir a foto de demonstração
+----------------------------------------------------------------------------------------------
+hero-congregacao.jpg               -> Foto de fundo da capa (Hero), Início
+quem-somos-comunhao.jpg            -> Terceira foto do grid em "Quem Somos"
+
+missao-portugal.jpg                -> Card "Portugal" na página Missões
+missao-angola.jpg                  -> Card "Angola"
+missao-mocambique.jpg              -> Card "Moçambique"
+missao-guine-bissau.jpg            -> Card "Guiné-Bissau"
+missao-paraguai.jpg                -> Card "Paraguai"
+missao-estados-unidos.jpg          -> Card "Estados Unidos"
+missao-japao.jpg                   -> Card "Japão"
+
+testemunho-familia-cavalcanti.jpg  -> Foto no carrossel de Testemunhos
+testemunho-rosangela-ferreira.jpg  -> Foto no carrossel de Testemunhos
+testemunho-matheus-andrade.jpg     -> Foto no carrossel de Testemunhos
+
+
+Outras fotos do site (missionários fictícios em cada país, vídeos da
+TV MEPB, documentos da Biblioteca) ainda usam o banco de imagens de
+demonstração porque representam pessoas e conteúdos fictícios do
+protótipo. Se depois vocês quiserem trocá-las por fotos reais também,
+é só pedir — novos nomes de arquivo podem ser adicionados a este
+sistema a qualquer momento.
